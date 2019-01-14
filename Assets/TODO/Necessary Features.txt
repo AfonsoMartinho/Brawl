@@ -1,0 +1,15 @@
+1- Sound
+2- Animations
+3- UI
+4- Data saving (to file or player preferences)
+5- Raycasts (is like an infrared wave) (aplly raycasts to do if (falls) --> dead and to maybe create back inpulse to player when shooting a near bullet to near objects)
+
+Assets used:
+Text Mesh Pro: https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126
+Low poly free pack: https://assetstore.unity.com/packages/3d/environments/low-poly-free-pack-58821
+Flat Icoon and UI: https://assetstore.unity.com/packages/2d/gui/icons/flat-icoon-ui-2d-puzzle-game-ui-69370
+skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-volume-2-nebula-3392
+audio https://assetstore.unity.com/packages/audio/sound-fx/scifi-ui-sound-fx-27282
+
+
+TODO: IF  have time add loose counter to dataController

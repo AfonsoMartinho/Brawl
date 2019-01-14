@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 692c528755f401f458a38ee819231988
+timeCreated: 1517318656
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: XboxButtons_0
+    21300002: XboxButtons_1
+    21300004: XboxButtons_2
+    21300006: XboxButtons_3
+    21300008: XboxButtons_4
+    21300010: XboxButtons_5
+    21300012: XboxButtons_6
+    21300014: XboxButtons_7
+    21300016: XboxButtons_8
+    21300018: XboxButtons_9
+    21300020: XboxButtons_10
+    21300022: XboxButtons_11
+    21300024: XboxButtons_12
+    21300026: XboxButtons_13
+    21300028: XboxButtons_14
+    21300030: XboxButtons_15
+    21300032: XboxButtons_16
+    21300034: XboxButtons_17
+    21300036: XboxButtons_19
+    21300038: XboxButtons_20
+    21300040: XboxButtons_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XboxButtons_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 416
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 422
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 413
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 421
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 438
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 436
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 311
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 310
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 311
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 309
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 309
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_11
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 326
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_12
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 324
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 216
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 215
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 199
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 243
+        width: 93
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 243
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_20
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 242
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: XboxButtons_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 191
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -45, y: -30}
+      - {x: -45, y: -67}
+      - {x: -37, y: -72}
+      - {x: -32, y: -74}
+      - {x: 43, y: -74}
+      - {x: 52, y: -71}
+      - {x: 52, y: -32}
+      - {x: 50, y: -30}
+    - - {x: -161, y: 26}
+      - {x: -197, y: -31}
+      - {x: -197, y: -46}
+      - {x: -180, y: -66}
+      - {x: -148, y: -66}
+      - {x: -138, y: -54}
+      - {x: -133, y: 2}
+      - {x: -133, y: 26}
+    - - {x: -118, y: 28}
+      - {x: -122, y: 27}
+      - {x: -122, y: -5}
+      - {x: -119, y: -38}
+      - {x: -108, y: -65}
+      - {x: -70, y: -65}
+      - {x: -58, y: -45}
+      - {x: -58, y: -16}
+      - {x: -93, y: 28}
+    - - {x: -287, y: 24}
+      - {x: -287, y: -50}
+      - {x: -235, y: -50}
+      - {x: -205, y: -2}
+      - {x: -205, y: 24}
+    - - {x: -388, y: 25}
+      - {x: -388, y: -6}
+      - {x: -372, y: -49}
+      - {x: -306, y: -49}
+      - {x: -306, y: 25}
+    - - {x: 297, y: -17}
+      - {x: 303, y: -23}
+      - {x: 336, y: -23}
+      - {x: 357, y: -9}
+      - {x: 357, y: 13}
+      - {x: 355, y: 17}
+      - {x: 340, y: 32}
+      - {x: 321, y: 32}
+      - {x: 297, y: 15}
+    - - {x: -47, y: 21}
+      - {x: -47, y: -20}
+      - {x: -42, y: -22}
+      - {x: 46, y: -22}
+      - {x: 50, y: -17}
+      - {x: 50, y: 14}
+      - {x: 48, y: 21}
+    - - {x: 193, y: 33}
+      - {x: 190, y: 30}
+      - {x: 190, y: 4}
+      - {x: 201, y: -22}
+      - {x: 239, y: -22}
+      - {x: 248, y: -13}
+      - {x: 248, y: 28}
+      - {x: 236, y: 33}
+    - - {x: -33, y: 131}
+      - {x: -40, y: 114}
+      - {x: -40, y: 44}
+      - {x: 36, y: 44}
+      - {x: 48, y: 69}
+      - {x: 48, y: 126}
+      - {x: 34, y: 131}
+    - - {x: 133, y: 131}
+      - {x: 87, y: 131}
+      - {x: 72, y: 124}
+      - {x: 72, y: 50}
+      - {x: 74, y: 44}
+      - {x: 140, y: 44}
+      - {x: 159, y: 69}
+      - {x: 159, y: 105}
+    - - {x: -257, y: 133}
+      - {x: -264, y: 124}
+      - {x: -264, y: 71}
+      - {x: -263, y: 62}
+      - {x: -256, y: 45}
+      - {x: -181, y: 45}
+      - {x: -176, y: 47}
+      - {x: -176, y: 124}
+      - {x: -199, y: 133}
+    - - {x: -318, y: 133}
+      - {x: -363, y: 133}
+      - {x: -382, y: 112}
+      - {x: -382, y: 72}
+      - {x: -380, y: 67}
+      - {x: -361, y: 46}
+      - {x: -317, y: 46}
+      - {x: -294, y: 68}
+      - {x: -294, y: 109}
+    - - {x: -151, y: 64}
+      - {x: -138, y: 46}
+      - {x: -82, y: 46}
+      - {x: -64, y: 51}
+      - {x: -64, y: 123}
+      - {x: -69, y: 134}
+      - {x: -131, y: 134}
+      - {x: -132, y: 133}
+      - {x: -151, y: 108}
+    - - {x: 281, y: 131}
+      - {x: 281, y: 62}
+      - {x: 291, y: 59}
+      - {x: 347, y: 59}
+      - {x: 353, y: 66}
+      - {x: 353, y: 127}
+      - {x: 352, y: 131}
+    - - {x: 179, y: 133}
+      - {x: 179, y: 61}
+      - {x: 227, y: 61}
+      - {x: 246, y: 69}
+      - {x: 251, y: 75}
+      - {x: 251, y: 116}
+      - {x: 239, y: 133}
+    - - {x: -117, y: 254}
+      - {x: -135, y: 238}
+      - {x: -135, y: 161}
+      - {x: -125, y: 148}
+      - {x: -35, y: 148}
+      - {x: -21, y: 151}
+      - {x: -14, y: 167}
+      - {x: -14, y: 231}
+      - {x: -25, y: 254}
+    - - {x: -306, y: 257}
+      - {x: -355, y: 257}
+      - {x: -383, y: 247}
+      - {x: -395, y: 235}
+      - {x: -395, y: 156}
+      - {x: -374, y: 151}
+      - {x: -289, y: 151}
+      - {x: -275, y: 180}
+      - {x: -275, y: 232}
+      - {x: -284, y: 252}
+    - - {x: 102, y: 248}
+      - {x: 14, y: 248}
+      - {x: 3, y: 234}
+      - {x: 3, y: 193}
+      - {x: 24, y: 156}
+      - {x: 106, y: 156}
+      - {x: 124, y: 194}
+      - {x: 124, y: 235}
+      - {x: 121, y: 245}
+    - - {x: -185, y: 250}
+      - {x: -258, y: 250}
+      - {x: -271, y: 228}
+      - {x: -271, y: 183}
+      - {x: -245, y: 160}
+      - {x: -229, y: 158}
+      - {x: -183, y: 158}
+      - {x: -150, y: 193}
+      - {x: -150, y: 225}
+      - {x: -155, y: 241}
+    - - {x: 286, y: 243}
+      - {x: 280, y: 240}
+      - {x: 280, y: 185}
+      - {x: 284, y: 171}
+      - {x: 334, y: 171}
+      - {x: 352, y: 185}
+      - {x: 352, y: 236}
+      - {x: 329, y: 243}
+    - - {x: 234, y: 241}
+      - {x: 223, y: 245}
+      - {x: 198, y: 245}
+      - {x: 175, y: 233}
+      - {x: 175, y: 181}
+      - {x: 189, y: 173}
+      - {x: 240, y: 173}
+      - {x: 247, y: 196}
+      - {x: 247, y: 229}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

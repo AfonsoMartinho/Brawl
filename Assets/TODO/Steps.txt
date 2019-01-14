@@ -1,0 +1,37 @@
+Map:
+	Circle type of Plane with some volume
+	Rectangular Platforms with low volume
+	At the start make something simple
+
+Player:
+	At the strat use the sphere  oject
+
+Player Movment:
+	Use Physics
+	Test a lot
+	Triple or Double Jump
+	Blend the platforms with the Jumping System
+
+Fight Mechanics
+	Players can shot projectels
+	When a player get shot it  lowers the health
+	The lower the heatlth the easy it is to knock out the player
+	If you fall you die
+
+Add Player 2
+	prefab
+	xbox controller( https://www.youtube.com/watch?v=384_g0f7K_I)
+	See if the projectils work
+Advanced Mechanics:
+	If the projectil hits a platfrom it should continue moving
+	Charged atacks incrising size damadge and speed of projectile
+	Projectiles coliding with each other
+	Camera zoom in and out to fiit all (https://www.youtube.com/watch?v=HVB6UVcb3f8)
+	PowerUps (Heal Speed Shield)
+
+TUTORIALS:
+	steps tut: https://www.youtube.com/watch?v=-rwo_qdLag8&t=8s
+	Overal tut: https://www.youtube.com/watch?v=p23J5-1OTAM
+	Char Selection: https://www.youtube.com/watch?v=FnQ8Bpyqhnk
+	KEep trach of Char selected: https://www.youtube.com/watch?v=IFTjcPvCZaM
+	Xbox controller: https://www.youtube.com/watch?v=384_g0f7K_I
